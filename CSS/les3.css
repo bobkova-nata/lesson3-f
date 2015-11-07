@@ -1,0 +1,64 @@
+@charset "windows-1251"
+body
+{
+ background-color: #c7b39b;	
+ margin:3% 45% 3% 3%; 
+ font-family: Times New Roman;
+ font-size:12pt;
+ text-align:left; 
+} 
+
+h1 
+{
+	text-align:left; 
+	font-size: 20pt;
+}
+
+h2
+{
+	font-size: 18pt;
+}
+
+fieldset
+{ 
+	border-radius: 10px; 
+}
+
+legend
+{
+	font-weight:bold;
+}
+
+li 
+{
+    list-style-type: none; 
+}
+
+ul
+ {
+    margin-left: 0; 
+    padding-left: 0; 
+}
+
+ul.abc
+{
+	font-size: 10pt;
+}
+
+label.bold
+{
+	font-weight:bold;
+}
+
+label.obl
+{
+	font-style:oblique;
+}
+input.before
+{
+	color:grey;
+	size:100;
+}
+
+
+
